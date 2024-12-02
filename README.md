@@ -75,7 +75,7 @@ These instructions will help you set up and run the project on your local machin
 
 -clone the repository
 -Download database file cinephilesdb from Database Branch and import to your local mysql server.
--fun folder with [php artisan serve ]  
+
 
 
 
